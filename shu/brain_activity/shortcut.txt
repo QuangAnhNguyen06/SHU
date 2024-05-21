@@ -1,0 +1,6 @@
+.\env\Scripts\activate
+
+deactivate
+
+# ctrl shift p -> search bar
+# ctrl ` -> open terminal

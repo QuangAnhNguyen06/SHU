@@ -1,0 +1,202 @@
+Epoch 1/100
+f:\code\barlow\env\lib\site-packages\keras\src\models\functional.py:225: UserWarning: The structure of `inputs` doesn't match the expected structure: ['image_input', 'npy_input']. Received: the structure of inputs=('*', '*')
+  warnings.warn(
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m43s[0m 1s/step - Decoder_loss: 0.9304 - Decoder_mae: 0.1212 - Decoder_mae_1: 0.6208 - loss: 0.9946 - val_Decoder_loss: 4.8734 - val_Decoder_mae: 0.2144 - val_Decoder_mae_1: 1.8290 - val_loss: 5.0328
+Epoch 2/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m18s[0m 1s/step - Decoder_loss: 0.8222 - Decoder_mae: 0.0522 - Decoder_mae_1: 0.5963 - loss: 0.8378 - val_Decoder_loss: 7.2859 - val_Decoder_mae: 0.2330 - val_Decoder_mae_1: 2.2754 - val_loss: 7.4885
+Epoch 3/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m18s[0m 1s/step - Decoder_loss: 0.7520 - Decoder_mae: 0.0416 - Decoder_mae_1: 0.5684 - loss: 0.7625 - val_Decoder_loss: 1.7065 - val_Decoder_mae: 0.0805 - val_Decoder_mae_1: 0.9646 - val_loss: 1.7009
+Epoch 4/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m18s[0m 1s/step - Decoder_loss: 0.6834 - Decoder_mae: 0.0372 - Decoder_mae_1: 0.5291 - loss: 0.6927 - val_Decoder_loss: 1.4471 - val_Decoder_mae: 0.0341 - val_Decoder_mae_1: 0.8659 - val_loss: 1.4159
+Epoch 5/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m18s[0m 1s/step - Decoder_loss: 0.6465 - Decoder_mae: 0.0364 - Decoder_mae_1: 0.5140 - loss: 0.6554 - val_Decoder_loss: 1.1182 - val_Decoder_mae: 0.0484 - val_Decoder_mae_1: 0.7465 - val_loss: 1.0636
+Epoch 6/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.6115 - Decoder_mae: 0.0324 - Decoder_mae_1: 0.5020 - loss: 0.6192 - val_Decoder_loss: 1.1227 - val_Decoder_mae: 0.0437 - val_Decoder_mae_1: 0.7502 - val_loss: 1.0670
+Epoch 7/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m18s[0m 1s/step - Decoder_loss: 0.5844 - Decoder_mae: 0.0279 - Decoder_mae_1: 0.4994 - loss: 0.5913 - val_Decoder_loss: 1.0900 - val_Decoder_mae: 0.0320 - val_Decoder_mae_1: 0.7376 - val_loss: 1.0336
+Epoch 8/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m18s[0m 1s/step - Decoder_loss: 0.5462 - Decoder_mae: 0.0268 - Decoder_mae_1: 0.4796 - loss: 0.5529 - val_Decoder_loss: 1.0763 - val_Decoder_mae: 0.0344 - val_Decoder_mae_1: 0.7295 - val_loss: 1.0191
+Epoch 9/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.5056 - Decoder_mae: 0.0230 - Decoder_mae_1: 0.4477 - loss: 0.5111 - val_Decoder_loss: 1.3066 - val_Decoder_mae: 0.0348 - val_Decoder_mae_1: 0.8162 - val_loss: 1.2434
+Epoch 10/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.4791 - Decoder_mae: 0.0223 - Decoder_mae_1: 0.4442 - loss: 0.4848 - val_Decoder_loss: 1.1139 - val_Decoder_mae: 0.0317 - val_Decoder_mae_1: 0.7410 - val_loss: 1.0547
+Epoch 11/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.4357 - Decoder_mae: 0.0217 - Decoder_mae_1: 0.4173 - loss: 0.4413 - val_Decoder_loss: 1.1714 - val_Decoder_mae: 0.0329 - val_Decoder_mae_1: 0.7613 - val_loss: 1.1065
+Epoch 12/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.4214 - Decoder_mae: 0.0222 - Decoder_mae_1: 0.4106 - loss: 0.4272 - val_Decoder_loss: 1.4607 - val_Decoder_mae: 0.0390 - val_Decoder_mae_1: 0.8760 - val_loss: 1.3846
+Epoch 13/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.3812 - Decoder_mae: 0.0205 - Decoder_mae_1: 0.3940 - loss: 0.3863 - val_Decoder_loss: 1.1610 - val_Decoder_mae: 0.0384 - val_Decoder_mae_1: 0.7274 - val_loss: 1.1000
+Epoch 14/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.3481 - Decoder_mae: 0.0211 - Decoder_mae_1: 0.3838 - loss: 0.3540 - val_Decoder_loss: 1.0450 - val_Decoder_mae: 0.0318 - val_Decoder_mae_1: 0.7143 - val_loss: 0.9940
+Epoch 15/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.3063 - Decoder_mae: 0.0202 - Decoder_mae_1: 0.3556 - loss: 0.3115 - val_Decoder_loss: 1.1827 - val_Decoder_mae: 0.0286 - val_Decoder_mae_1: 0.7736 - val_loss: 1.1253
+Epoch 16/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.2619 - Decoder_mae: 0.0189 - Decoder_mae_1: 0.3342 - loss: 0.2670 - val_Decoder_loss: 1.2174 - val_Decoder_mae: 0.0311 - val_Decoder_mae_1: 0.7760 - val_loss: 1.1488
+Epoch 17/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.2402 - Decoder_mae: 0.0182 - Decoder_mae_1: 0.3222 - loss: 0.2448 - val_Decoder_loss: 1.2448 - val_Decoder_mae: 0.0310 - val_Decoder_mae_1: 0.7866 - val_loss: 1.1762
+Epoch 18/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.2205 - Decoder_mae: 0.0182 - Decoder_mae_1: 0.3053 - loss: 0.2253 - val_Decoder_loss: 1.1555 - val_Decoder_mae: 0.0309 - val_Decoder_mae_1: 0.7527 - val_loss: 1.0918
+Epoch 19/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.2028 - Decoder_mae: 0.0175 - Decoder_mae_1: 0.2964 - loss: 0.2074 - val_Decoder_loss: 1.1299 - val_Decoder_mae: 0.0337 - val_Decoder_mae_1: 0.7411 - val_loss: 1.0662
+Epoch 20/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.1781 - Decoder_mae: 0.0171 - Decoder_mae_1: 0.2733 - loss: 0.1825 - val_Decoder_loss: 1.1632 - val_Decoder_mae: 0.0299 - val_Decoder_mae_1: 0.7576 - val_loss: 1.1031
+Epoch 21/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.1612 - Decoder_mae: 0.0166 - Decoder_mae_1: 0.2595 - loss: 0.1653 - val_Decoder_loss: 1.0874 - val_Decoder_mae: 0.0296 - val_Decoder_mae_1: 0.7320 - val_loss: 1.0301
+Epoch 22/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.1509 - Decoder_mae: 0.0158 - Decoder_mae_1: 0.2521 - loss: 0.1549 - val_Decoder_loss: 1.0764 - val_Decoder_mae: 0.0298 - val_Decoder_mae_1: 0.7283 - val_loss: 1.0198
+Epoch 23/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.1395 - Decoder_mae: 0.0160 - Decoder_mae_1: 0.2393 - loss: 0.1436 - val_Decoder_loss: 1.0635 - val_Decoder_mae: 0.0301 - val_Decoder_mae_1: 0.7212 - val_loss: 1.0066
+Epoch 24/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.1356 - Decoder_mae: 0.0158 - Decoder_mae_1: 0.2361 - loss: 0.1395 - val_Decoder_loss: 1.0216 - val_Decoder_mae: 0.0311 - val_Decoder_mae_1: 0.7089 - val_loss: 0.9684
+Epoch 25/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.1278 - Decoder_mae: 0.0147 - Decoder_mae_1: 0.2285 - loss: 0.1314 - val_Decoder_loss: 1.0287 - val_Decoder_mae: 0.0318 - val_Decoder_mae_1: 0.7078 - val_loss: 0.9732
+Epoch 26/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.1240 - Decoder_mae: 0.0149 - Decoder_mae_1: 0.2274 - loss: 0.1278 - val_Decoder_loss: 1.0112 - val_Decoder_mae: 0.0304 - val_Decoder_mae_1: 0.7080 - val_loss: 0.9593
+Epoch 27/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.1253 - Decoder_mae: 0.0157 - Decoder_mae_1: 0.2266 - loss: 0.1293 - val_Decoder_loss: 1.0403 - val_Decoder_mae: 0.0292 - val_Decoder_mae_1: 0.7144 - val_loss: 0.9838
+Epoch 28/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.1252 - Decoder_mae: 0.0152 - Decoder_mae_1: 0.2304 - loss: 0.1291 - val_Decoder_loss: 1.0406 - val_Decoder_mae: 0.0302 - val_Decoder_mae_1: 0.7117 - val_loss: 0.9840
+Epoch 29/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.1142 - Decoder_mae: 0.0151 - Decoder_mae_1: 0.2212 - loss: 0.1179 - val_Decoder_loss: 1.0320 - val_Decoder_mae: 0.0306 - val_Decoder_mae_1: 0.7094 - val_loss: 0.9771
+Epoch 30/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.1075 - Decoder_mae: 0.0152 - Decoder_mae_1: 0.2125 - loss: 0.1111 - val_Decoder_loss: 1.0391 - val_Decoder_mae: 0.0307 - val_Decoder_mae_1: 0.7097 - val_loss: 0.9813
+Epoch 31/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.1071 - Decoder_mae: 0.0165 - Decoder_mae_1: 0.2109 - loss: 0.1111 - val_Decoder_loss: 1.0217 - val_Decoder_mae: 0.0301 - val_Decoder_mae_1: 0.7074 - val_loss: 0.9683
+Epoch 32/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m18s[0m 1s/step - Decoder_loss: 0.1000 - Decoder_mae: 0.0151 - Decoder_mae_1: 0.2012 - loss: 0.1035 - val_Decoder_loss: 1.0446 - val_Decoder_mae: 0.0304 - val_Decoder_mae_1: 0.7095 - val_loss: 0.9855
+Epoch 33/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0965 - Decoder_mae: 0.0138 - Decoder_mae_1: 0.1984 - loss: 0.0998 - val_Decoder_loss: 1.0245 - val_Decoder_mae: 0.0316 - val_Decoder_mae_1: 0.7075 - val_loss: 0.9707
+Epoch 34/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0930 - Decoder_mae: 0.0142 - Decoder_mae_1: 0.1954 - loss: 0.0966 - val_Decoder_loss: 1.0223 - val_Decoder_mae: 0.0321 - val_Decoder_mae_1: 0.7072 - val_loss: 0.9688
+Epoch 35/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0921 - Decoder_mae: 0.0139 - Decoder_mae_1: 0.1951 - loss: 0.0955 - val_Decoder_loss: 1.0494 - val_Decoder_mae: 0.0319 - val_Decoder_mae_1: 0.7115 - val_loss: 0.9903
+Epoch 36/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0895 - Decoder_mae: 0.0135 - Decoder_mae_1: 0.1931 - loss: 0.0926 - val_Decoder_loss: 1.0449 - val_Decoder_mae: 0.0310 - val_Decoder_mae_1: 0.7119 - val_loss: 0.9873
+Epoch 37/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0879 - Decoder_mae: 0.0135 - Decoder_mae_1: 0.1916 - loss: 0.0913 - val_Decoder_loss: 1.0591 - val_Decoder_mae: 0.0295 - val_Decoder_mae_1: 0.7139 - val_loss: 0.9983
+Epoch 38/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m20s[0m 1s/step - Decoder_loss: 0.0903 - Decoder_mae: 0.0132 - Decoder_mae_1: 0.1934 - loss: 0.0937 - val_Decoder_loss: 1.0656 - val_Decoder_mae: 0.0298 - val_Decoder_mae_1: 0.7158 - val_loss: 1.0037
+Epoch 39/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0930 - Decoder_mae: 0.0129 - Decoder_mae_1: 0.1986 - loss: 0.0962 - val_Decoder_loss: 1.1100 - val_Decoder_mae: 0.0291 - val_Decoder_mae_1: 0.7231 - val_loss: 1.0416
+Epoch 40/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.1160 - Decoder_mae: 0.0150 - Decoder_mae_1: 0.2281 - loss: 0.1204 - val_Decoder_loss: 1.0399 - val_Decoder_mae: 0.0310 - val_Decoder_mae_1: 0.7121 - val_loss: 0.9832
+Epoch 41/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.1401 - Decoder_mae: 0.0156 - Decoder_mae_1: 0.2539 - loss: 0.1438 - val_Decoder_loss: 1.0223 - val_Decoder_mae: 0.0287 - val_Decoder_mae_1: 0.7307 - val_loss: 0.9739
+Epoch 42/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0981 - Decoder_mae: 0.0139 - Decoder_mae_1: 0.2039 - loss: 0.1016 - val_Decoder_loss: 1.0061 - val_Decoder_mae: 0.0290 - val_Decoder_mae_1: 0.7105 - val_loss: 0.9595
+Epoch 43/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m20s[0m 1s/step - Decoder_loss: 0.0911 - Decoder_mae: 0.0136 - Decoder_mae_1: 0.1922 - loss: 0.0946 - val_Decoder_loss: 0.9879 - val_Decoder_mae: 0.0283 - val_Decoder_mae_1: 0.7137 - val_loss: 0.9467
+Epoch 44/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0900 - Decoder_mae: 0.0131 - Decoder_mae_1: 0.1930 - loss: 0.0933 - val_Decoder_loss: 1.0111 - val_Decoder_mae: 0.0287 - val_Decoder_mae_1: 0.7054 - val_loss: 0.9600
+Epoch 45/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m18s[0m 1s/step - Decoder_loss: 0.0844 - Decoder_mae: 0.0124 - Decoder_mae_1: 0.1859 - loss: 0.0874 - val_Decoder_loss: 1.0361 - val_Decoder_mae: 0.0288 - val_Decoder_mae_1: 0.7073 - val_loss: 0.9799
+Epoch 46/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0891 - Decoder_mae: 0.0120 - Decoder_mae_1: 0.1912 - loss: 0.0921 - val_Decoder_loss: 1.0332 - val_Decoder_mae: 0.0290 - val_Decoder_mae_1: 0.7069 - val_loss: 0.9768
+Epoch 47/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0894 - Decoder_mae: 0.0122 - Decoder_mae_1: 0.1895 - loss: 0.0925 - val_Decoder_loss: 1.0014 - val_Decoder_mae: 0.0281 - val_Decoder_mae_1: 0.7126 - val_loss: 0.9558
+Epoch 48/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0888 - Decoder_mae: 0.0125 - Decoder_mae_1: 0.1894 - loss: 0.0918 - val_Decoder_loss: 0.9974 - val_Decoder_mae: 0.0279 - val_Decoder_mae_1: 0.7226 - val_loss: 0.9579
+Epoch 49/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0854 - Decoder_mae: 0.0128 - Decoder_mae_1: 0.1861 - loss: 0.0884 - val_Decoder_loss: 0.9989 - val_Decoder_mae: 0.0266 - val_Decoder_mae_1: 0.7074 - val_loss: 0.9518
+Epoch 50/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0856 - Decoder_mae: 0.0127 - Decoder_mae_1: 0.1864 - loss: 0.0886 - val_Decoder_loss: 1.0012 - val_Decoder_mae: 0.0274 - val_Decoder_mae_1: 0.7088 - val_loss: 0.9535
+Epoch 51/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m20s[0m 1s/step - Decoder_loss: 0.0843 - Decoder_mae: 0.0116 - Decoder_mae_1: 0.1862 - loss: 0.0872 - val_Decoder_loss: 1.0718 - val_Decoder_mae: 0.0285 - val_Decoder_mae_1: 0.7107 - val_loss: 1.0091
+Epoch 52/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0847 - Decoder_mae: 0.0120 - Decoder_mae_1: 0.1883 - loss: 0.0877 - val_Decoder_loss: 1.0479 - val_Decoder_mae: 0.0286 - val_Decoder_mae_1: 0.7083 - val_loss: 0.9892
+Epoch 53/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m20s[0m 1s/step - Decoder_loss: 0.0774 - Decoder_mae: 0.0120 - Decoder_mae_1: 0.1783 - loss: 0.0804 - val_Decoder_loss: 0.9995 - val_Decoder_mae: 0.0275 - val_Decoder_mae_1: 0.7110 - val_loss: 0.9525
+Epoch 54/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0902 - Decoder_mae: 0.0119 - Decoder_mae_1: 0.1852 - loss: 0.0931 - val_Decoder_loss: 5.3228 - val_Decoder_mae: 0.0344 - val_Decoder_mae_1: 1.8064 - val_loss: 5.1435
+Epoch 55/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.1420 - Decoder_mae: 0.0149 - Decoder_mae_1: 0.2376 - loss: 0.1454 - val_Decoder_loss: 2.1325 - val_Decoder_mae: 0.0652 - val_Decoder_mae_1: 1.0934 - val_loss: 2.0790
+Epoch 56/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m20s[0m 1s/step - Decoder_loss: 0.2527 - Decoder_mae: 0.0174 - Decoder_mae_1: 0.2917 - loss: 0.2586 - val_Decoder_loss: 322.0632 - val_Decoder_mae: 0.2220 - val_Decoder_mae_1: 11.9450 - val_loss: 322.6730
+Epoch 57/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.1374 - Decoder_mae: 0.0181 - Decoder_mae_1: 0.2266 - loss: 0.1428 - val_Decoder_loss: 197.9248 - val_Decoder_mae: 0.0867 - val_Decoder_mae_1: 12.0454 - val_loss: 197.5028
+Epoch 58/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.1182 - Decoder_mae: 0.0160 - Decoder_mae_1: 0.2130 - loss: 0.1228 - val_Decoder_loss: 3.6161 - val_Decoder_mae: 0.0361 - val_Decoder_mae_1: 1.4655 - val_loss: 3.4360
+Epoch 59/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m20s[0m 1s/step - Decoder_loss: 0.0981 - Decoder_mae: 0.0150 - Decoder_mae_1: 0.2023 - loss: 0.1022 - val_Decoder_loss: 1.2494 - val_Decoder_mae: 0.0229 - val_Decoder_mae_1: 0.7575 - val_loss: 1.1778
+Epoch 60/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m20s[0m 1s/step - Decoder_loss: 0.0795 - Decoder_mae: 0.0135 - Decoder_mae_1: 0.1806 - loss: 0.0831 - val_Decoder_loss: 0.5868 - val_Decoder_mae: 0.0230 - val_Decoder_mae_1: 0.5420 - val_loss: 0.6004
+Epoch 61/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0747 - Decoder_mae: 0.0127 - Decoder_mae_1: 0.1744 - loss: 0.0780 - val_Decoder_loss: 0.3664 - val_Decoder_mae: 0.0168 - val_Decoder_mae_1: 0.4394 - val_loss: 0.3625
+Epoch 62/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m20s[0m 1s/step - Decoder_loss: 0.0748 - Decoder_mae: 0.0118 - Decoder_mae_1: 0.1739 - loss: 0.0779 - val_Decoder_loss: 0.3948 - val_Decoder_mae: 0.0157 - val_Decoder_mae_1: 0.4622 - val_loss: 0.3867
+Epoch 63/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m20s[0m 1s/step - Decoder_loss: 0.0714 - Decoder_mae: 0.0119 - Decoder_mae_1: 0.1694 - loss: 0.0745 - val_Decoder_loss: 0.4994 - val_Decoder_mae: 0.0184 - val_Decoder_mae_1: 0.5247 - val_loss: 0.4845
+Epoch 64/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m20s[0m 1s/step - Decoder_loss: 0.0694 - Decoder_mae: 0.0113 - Decoder_mae_1: 0.1686 - loss: 0.0722 - val_Decoder_loss: 0.4909 - val_Decoder_mae: 0.0177 - val_Decoder_mae_1: 0.5250 - val_loss: 0.4787
+Epoch 65/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m20s[0m 1s/step - Decoder_loss: 0.0660 - Decoder_mae: 0.0111 - Decoder_mae_1: 0.1649 - loss: 0.0687 - val_Decoder_loss: 0.5657 - val_Decoder_mae: 0.0172 - val_Decoder_mae_1: 0.5741 - val_loss: 0.5593
+Epoch 66/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0661 - Decoder_mae: 0.0108 - Decoder_mae_1: 0.1644 - loss: 0.0687 - val_Decoder_loss: 0.5372 - val_Decoder_mae: 0.0176 - val_Decoder_mae_1: 0.5546 - val_loss: 0.5260
+Epoch 67/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0654 - Decoder_mae: 0.0109 - Decoder_mae_1: 0.1652 - loss: 0.0680 - val_Decoder_loss: 0.4700 - val_Decoder_mae: 0.0159 - val_Decoder_mae_1: 0.5156 - val_loss: 0.4563
+Epoch 68/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0630 - Decoder_mae: 0.0104 - Decoder_mae_1: 0.1613 - loss: 0.0654 - val_Decoder_loss: 0.4337 - val_Decoder_mae: 0.0153 - val_Decoder_mae_1: 0.4951 - val_loss: 0.4215
+Epoch 69/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m20s[0m 1s/step - Decoder_loss: 0.0634 - Decoder_mae: 0.0103 - Decoder_mae_1: 0.1624 - loss: 0.0659 - val_Decoder_loss: 0.4088 - val_Decoder_mae: 0.0153 - val_Decoder_mae_1: 0.4818 - val_loss: 0.3999
+Epoch 70/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m20s[0m 1s/step - Decoder_loss: 0.0656 - Decoder_mae: 0.0103 - Decoder_mae_1: 0.1659 - loss: 0.0681 - val_Decoder_loss: 0.4256 - val_Decoder_mae: 0.0155 - val_Decoder_mae_1: 0.4914 - val_loss: 0.4150
+Epoch 71/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0667 - Decoder_mae: 0.0103 - Decoder_mae_1: 0.1667 - loss: 0.0692 - val_Decoder_loss: 0.3727 - val_Decoder_mae: 0.0150 - val_Decoder_mae_1: 0.4570 - val_loss: 0.3675
+Epoch 72/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0658 - Decoder_mae: 0.0105 - Decoder_mae_1: 0.1646 - loss: 0.0683 - val_Decoder_loss: 0.3363 - val_Decoder_mae: 0.0120 - val_Decoder_mae_1: 0.4261 - val_loss: 0.3312
+Epoch 73/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0706 - Decoder_mae: 0.0105 - Decoder_mae_1: 0.1712 - loss: 0.0730 - val_Decoder_loss: 0.3336 - val_Decoder_mae: 0.0124 - val_Decoder_mae_1: 0.4251 - val_loss: 0.3283
+Epoch 74/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0726 - Decoder_mae: 0.0105 - Decoder_mae_1: 0.1679 - loss: 0.0752 - val_Decoder_loss: 0.3246 - val_Decoder_mae: 0.0129 - val_Decoder_mae_1: 0.4161 - val_loss: 0.3222
+Epoch 75/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m20s[0m 1s/step - Decoder_loss: 0.0659 - Decoder_mae: 0.0103 - Decoder_mae_1: 0.1592 - loss: 0.0683 - val_Decoder_loss: 0.3171 - val_Decoder_mae: 0.0117 - val_Decoder_mae_1: 0.4024 - val_loss: 0.3145
+Epoch 76/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0606 - Decoder_mae: 0.0102 - Decoder_mae_1: 0.1545 - loss: 0.0630 - val_Decoder_loss: 0.3164 - val_Decoder_mae: 0.0110 - val_Decoder_mae_1: 0.3982 - val_loss: 0.3126
+Epoch 77/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0584 - Decoder_mae: 0.0097 - Decoder_mae_1: 0.1540 - loss: 0.0607 - val_Decoder_loss: 0.3239 - val_Decoder_mae: 0.0100 - val_Decoder_mae_1: 0.4069 - val_loss: 0.3188
+Epoch 78/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0563 - Decoder_mae: 0.0095 - Decoder_mae_1: 0.1539 - loss: 0.0584 - val_Decoder_loss: 0.3238 - val_Decoder_mae: 0.0114 - val_Decoder_mae_1: 0.4079 - val_loss: 0.3203
+Epoch 79/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0560 - Decoder_mae: 0.0097 - Decoder_mae_1: 0.1515 - loss: 0.0582 - val_Decoder_loss: 0.3098 - val_Decoder_mae: 0.0113 - val_Decoder_mae_1: 0.3983 - val_loss: 0.3071
+Epoch 80/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0563 - Decoder_mae: 0.0098 - Decoder_mae_1: 0.1514 - loss: 0.0585 - val_Decoder_loss: 0.3014 - val_Decoder_mae: 0.0098 - val_Decoder_mae_1: 0.3887 - val_loss: 0.2978
+Epoch 81/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0552 - Decoder_mae: 0.0094 - Decoder_mae_1: 0.1492 - loss: 0.0573 - val_Decoder_loss: 0.3145 - val_Decoder_mae: 0.0102 - val_Decoder_mae_1: 0.4057 - val_loss: 0.3089
+Epoch 82/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0574 - Decoder_mae: 0.0094 - Decoder_mae_1: 0.1531 - loss: 0.0596 - val_Decoder_loss: 0.2989 - val_Decoder_mae: 0.0110 - val_Decoder_mae_1: 0.3874 - val_loss: 0.2963
+Epoch 83/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0600 - Decoder_mae: 0.0093 - Decoder_mae_1: 0.1549 - loss: 0.0621 - val_Decoder_loss: 0.3230 - val_Decoder_mae: 0.0129 - val_Decoder_mae_1: 0.4113 - val_loss: 0.3188
+Epoch 84/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0632 - Decoder_mae: 0.0109 - Decoder_mae_1: 0.1626 - loss: 0.0660 - val_Decoder_loss: 0.3100 - val_Decoder_mae: 0.0134 - val_Decoder_mae_1: 0.4067 - val_loss: 0.3110
+Epoch 85/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0595 - Decoder_mae: 0.0115 - Decoder_mae_1: 0.1584 - loss: 0.0625 - val_Decoder_loss: 0.3041 - val_Decoder_mae: 0.0112 - val_Decoder_mae_1: 0.3924 - val_loss: 0.3008
+Epoch 86/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0580 - Decoder_mae: 0.0109 - Decoder_mae_1: 0.1584 - loss: 0.0608 - val_Decoder_loss: 0.3041 - val_Decoder_mae: 0.0118 - val_Decoder_mae_1: 0.3826 - val_loss: 0.2996
+Epoch 87/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m20s[0m 1s/step - Decoder_loss: 0.0527 - Decoder_mae: 0.0119 - Decoder_mae_1: 0.1492 - loss: 0.0557 - val_Decoder_loss: 0.3015 - val_Decoder_mae: 0.0109 - val_Decoder_mae_1: 0.3837 - val_loss: 0.2974
+Epoch 88/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m20s[0m 1s/step - Decoder_loss: 0.0499 - Decoder_mae: 0.0109 - Decoder_mae_1: 0.1443 - loss: 0.0525 - val_Decoder_loss: 0.2920 - val_Decoder_mae: 0.0123 - val_Decoder_mae_1: 0.3799 - val_loss: 0.2891
+Epoch 89/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0469 - Decoder_mae: 0.0104 - Decoder_mae_1: 0.1361 - loss: 0.0491 - val_Decoder_loss: 0.2923 - val_Decoder_mae: 0.0120 - val_Decoder_mae_1: 0.3873 - val_loss: 0.2892
+Epoch 90/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m23s[0m 1s/step - Decoder_loss: 0.0459 - Decoder_mae: 0.0095 - Decoder_mae_1: 0.1346 - loss: 0.0479 - val_Decoder_loss: 0.2885 - val_Decoder_mae: 0.0117 - val_Decoder_mae_1: 0.3819 - val_loss: 0.2863
+Epoch 91/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m22s[0m 1s/step - Decoder_loss: 0.0462 - Decoder_mae: 0.0094 - Decoder_mae_1: 0.1358 - loss: 0.0482 - val_Decoder_loss: 0.2853 - val_Decoder_mae: 0.0111 - val_Decoder_mae_1: 0.3810 - val_loss: 0.2823
+Epoch 92/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m21s[0m 1s/step - Decoder_loss: 0.0468 - Decoder_mae: 0.0094 - Decoder_mae_1: 0.1364 - loss: 0.0489 - val_Decoder_loss: 0.2919 - val_Decoder_mae: 0.0109 - val_Decoder_mae_1: 0.3909 - val_loss: 0.2911
+Epoch 93/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m21s[0m 1s/step - Decoder_loss: 0.0474 - Decoder_mae: 0.0093 - Decoder_mae_1: 0.1378 - loss: 0.0496 - val_Decoder_loss: 0.2859 - val_Decoder_mae: 0.0098 - val_Decoder_mae_1: 0.3683 - val_loss: 0.2822
+Epoch 94/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m21s[0m 1s/step - Decoder_loss: 0.0486 - Decoder_mae: 0.0097 - Decoder_mae_1: 0.1367 - loss: 0.0506 - val_Decoder_loss: 0.2848 - val_Decoder_mae: 0.0103 - val_Decoder_mae_1: 0.3699 - val_loss: 0.2835
+Epoch 95/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m21s[0m 1s/step - Decoder_loss: 0.0485 - Decoder_mae: 0.0093 - Decoder_mae_1: 0.1404 - loss: 0.0506 - val_Decoder_loss: 0.2825 - val_Decoder_mae: 0.0104 - val_Decoder_mae_1: 0.3728 - val_loss: 0.2797
+Epoch 96/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0491 - Decoder_mae: 0.0094 - Decoder_mae_1: 0.1372 - loss: 0.0511 - val_Decoder_loss: 0.2855 - val_Decoder_mae: 0.0112 - val_Decoder_mae_1: 0.3786 - val_loss: 0.2854
+Epoch 97/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m19s[0m 1s/step - Decoder_loss: 0.0501 - Decoder_mae: 0.0092 - Decoder_mae_1: 0.1419 - loss: 0.0522 - val_Decoder_loss: 0.2758 - val_Decoder_mae: 0.0099 - val_Decoder_mae_1: 0.3640 - val_loss: 0.2727
+Epoch 98/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m21s[0m 1s/step - Decoder_loss: 0.0486 - Decoder_mae: 0.0091 - Decoder_mae_1: 0.1342 - loss: 0.0506 - val_Decoder_loss: 0.2878 - val_Decoder_mae: 0.0111 - val_Decoder_mae_1: 0.3928 - val_loss: 0.2888
+Epoch 99/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m22s[0m 1s/step - Decoder_loss: 0.0469 - Decoder_mae: 0.0089 - Decoder_mae_1: 0.1365 - loss: 0.0488 - val_Decoder_loss: 0.2756 - val_Decoder_mae: 0.0098 - val_Decoder_mae_1: 0.3701 - val_loss: 0.2727
+Epoch 100/100
+[1m16/16[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m21s[0m 1s/step - Decoder_loss: 0.0429 - Decoder_mae: 0.0092 - Decoder_mae_1: 0.1302 - loss: 0.0448 - val_Decoder_loss: 0.2909 - val_Decoder_mae: 0.0115 - val_Decoder_mae_1: 0.3953 - val_loss: 0.2910
